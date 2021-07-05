@@ -4,7 +4,7 @@ user can write the value in textbox or move slider
 then press save or run button to update values in database for those motors
 
 # this repository contains :
-* a few screenshots for the web page 
+* a few screenshots of the web page 
 * html file contains js  
 * css file
 * php file to manipulate mysql table values
